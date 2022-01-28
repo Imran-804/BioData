@@ -1,5 +1,27 @@
-.App {
+* {
+  list-style: none;
+}
+
+.Education p {
+  background-color: aqua;
+  margin-left: 20px;
+}
+.Personal-Info p {
+  background-color: aqua;
+  margin-left: 20px;
+}
+.Personal-Info h3 {
   text-align: center;
+  color: red;
+}
+.Skills p {
+  background-color: aqua;
+  margin-left: 20px;
+}
+.Interests p {
+  background-color: aqua;
+  margin-left: 20px;
+  text-transform: uppercase;
 }
 
 .App-logo {
